@@ -1,0 +1,120 @@
+
+.imageback{
+    background-image: url("Images/Korea-Sky.jpeg");
+    opacity: 100%;
+}
+
+.text{
+    font-family: 'Roboto Slab', serif;
+    color:darkgray;
+    margin-left: 20px;
+    font-size: 300%;
+}
+
+.text2{
+    font-family: 'Inconsolata', monospace;
+    color:rgb(77, 147, 165);
+    margin-left: 20px;
+    font-size: 200%;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    text-rendering: optimizeLegibility;
+    margin-left:23%;
+    color:chocolate;
+    display: inline;
+  }
+
+  .material-icons1 {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    text-rendering: optimizeLegibility;
+    margin-left:20%;
+    color:chocolate;
+    display: inline;
+  }
+
+  .material-icons2 {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    text-rendering: optimizeLegibility;
+    margin-left:20%;
+    color:chocolate;
+    display: inline;
+  }
+
+  .chess{
+    margin-left:23.35%;
+    color:chocolate;
+    display: inline;
+    font-size: 50px;
+  }
+
+  .align{
+      margin-top: 60px;
+  }
+
+  .github{
+    margin-left:20.95%;
+    color:chocolate;
+    display: inline;
+    font-size: 50px;
+  }
+
+  .musicnote {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    text-rendering: optimizeLegibility;
+    margin-left:20.5%;
+    color:chocolate;
+    display: inline;
+  }
+
+  .noline{
+    text-decoration: none;
+  }
+
+  .flag{
+      width:40px;
+      height:30px;
+      opacity: 70%;
+      margin-left: 20px;
+  }
